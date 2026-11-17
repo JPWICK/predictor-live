@@ -16,12 +16,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch latest fixtures and results
+      - name: Fetch tennis fixtures and results
         run: python fetch_data.py
-      - name: Commit data.json if it changed
+      - name: Fetch badminton draws and results
+        run: python fetch_badminton.py
+      - name: Commit data files if they changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data.json
+          git add data.json badminton.json
           git diff --cached --quiet || git commit -m "Update live data"
           git push
