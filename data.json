@@ -1,7 +1,7 @@
 {
  "kind": "predictor-live-feed",
  "version": 1,
- "generatedAt": "2026-11-17T17:16:12Z",
+ "generatedAt": "2026-11-17T17:26:03Z",
  "source": "TennisExplorer daily matches pages, type=all, singles only",
  "timeNote": "Times are TennisExplorer display times, passed through unchanged.",
  "counts": {
@@ -12439,7 +12439,7 @@
    "tour": "Helsinki challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "18:30Live streams1xBetBetVictorbet365Unibetbwin",
+   "time": "19:00Live streams1xBetBetVictorbet365Unibetbwin",
    "p1": "Coppejans K.",
    "p2": "Gojo B.",
    "sets": [],
@@ -12622,13 +12622,25 @@
    "tour": "Metz challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "17:15Live streamsBetVictorbet365",
-   "p1": "Forejtek J.",
-   "p2": "Herbert P.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "17:15",
+   "p1": "Herbert P.",
+   "p2": "Forejtek J.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Herbert P."
   },
   {
    "date": "2026-11-17",
@@ -12749,7 +12761,7 @@
    "tour": "Drummondville challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "18:10Live streams1xBetBetVictorUnibetBetssonbet365bwin",
+   "time": "18:15Live streams1xBetBetVictorUnibetBetssonbet365bwin",
    "p1": "Mejia N. (1)",
    "p2": "Wessels L.",
    "sets": [],
@@ -13832,19 +13844,6 @@
    "level": "Challenger",
    "sex": "M",
    "time": "20:00Live streams1xBetBetVictorbet365Unibetbwin",
-   "p1": "Vales A.",
-   "p2": "Perot R. (7)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-17",
-   "tour": "Champaign challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "20:00Live streams1xBetBetVictorbet365Unibetbwin",
    "p1": "Wendelken H. (1)",
    "p2": "Hussey G.",
    "sets": [],
@@ -13857,7 +13856,20 @@
    "tour": "Champaign challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "21:30Live streams1xBetBetVictorbet365Unibetbwin",
+   "time": "20:20Live streams1xBetBetVictorbet365Unibetbwin",
+   "p1": "Vales A.",
+   "p2": "Perot R. (7)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-17",
+   "tour": "Champaign challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "21:50Live streams1xBetBetVictorbet365Unibetbwin",
    "p1": "Mitsui S.",
    "p2": "Rehberg M. (2)",
    "sets": [],
@@ -14493,7 +14505,7 @@
    "tour": "Champaign challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "18:20Live streams1xBetbet365",
+   "time": "18:30Live streams1xBetbet365",
    "p1": "Rodriguez L.",
    "p2": "Tosetto R.",
    "sets": [],
@@ -18820,20 +18832,37 @@
    "tour": "Funchal ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "16:15Live streamsbet3651xBet",
+   "time": "16:15",
    "p1": "Cervino Ruiz C.",
    "p2": "Ryser V. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Cervino Ruiz C."
   },
   {
    "date": "2026-11-17",
    "tour": "Funchal ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "18:15Live streamsbet3651xBet",
+   "time": "18:25Live streamsbet3651xBet",
    "p1": "Ewald W.",
    "p2": "Voloshchuk A.",
    "sets": [],
@@ -19101,7 +19130,7 @@
    "tour": "Orlando 7 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "18:15Live streams1xBetbet365",
+   "time": "21:00Live streams1xBetbet365",
    "p1": "Sieg M. (7)",
    "p2": "Korpanec Davies A.",
    "sets": [],
@@ -19114,7 +19143,7 @@
    "tour": "Orlando 7 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "18:15Live streams1xBetbet365",
+   "time": "21:00Live streams1xBetbet365",
    "p1": "Jauffret C.",
    "p2": "Amariei I.",
    "sets": [],
@@ -19310,19 +19339,6 @@
    "level": "ITF",
    "sex": "W",
    "time": "18:15Live streamsbet3651xBet",
-   "p1": "Meabe S.",
-   "p2": "Cinalli L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-17",
-   "tour": "Sao Paulo 6 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "18:15Live streamsbet3651xBet",
    "p1": "Lollia M.",
    "p2": "Ferreira Turchetto M.",
    "sets": [],
@@ -19335,7 +19351,20 @@
    "tour": "Sao Paulo 6 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "18:20Live streams1xBetbet365",
+   "time": "18:25Live streamsbet3651xBet",
+   "p1": "Meabe S.",
+   "p2": "Cinalli L.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-17",
+   "tour": "Sao Paulo 6 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "18:30Live streams1xBetbet365",
    "p1": "Pontes Tourinho N.",
    "p2": "Meyer Auf Der Heide L.",
    "sets": [],
@@ -21878,19 +21907,6 @@
    "tour": "Drummondville challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "--:--",
-   "p1": "Kasnikowski M.",
-   "p2": "Chan D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-18",
-   "tour": "Drummondville challenger",
-   "level": "Challenger",
-   "sex": "M",
    "time": "00:15Live streamsBetVictorbet3651xBetUnibetbwin",
    "p1": "Milavsky D.",
    "p2": "Melnic V.",
@@ -21959,6 +21975,19 @@
    "time": "16:00Live streams1xBet",
    "p1": "Trotter J.",
    "p2": "Charlton J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-18",
+   "tour": "Drummondville challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "16:00",
+   "p1": "Kasnikowski M.",
+   "p2": "Chan D.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
