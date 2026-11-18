@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-18T06:48:40Z",
+ "generatedAt": "2026-11-18T16:18:23Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -11,9 +11,18 @@
    "round": "First round",
    "p1": "A Antonsen",
    "p2": "Cheam J W",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     15
+    ],
+    [
+     21,
+     14
+    ]
+   ],
+   "status": "finished",
+   "winner": "A Antonsen"
   },
   {
    "tournament": "Hong Kong Open",
@@ -21,9 +30,18 @@
    "round": "First round",
    "p1": "Pan Teeraratsakul",
    "p2": "J Gunawan",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     13,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "J Gunawan"
   },
   {
    "tournament": "Hong Kong Open",
@@ -71,6 +89,16 @@
    "tournament": "Hong Kong Open",
    "category": "MS",
    "round": "Second round",
+   "p1": "A Antonsen",
+   "p2": "J Gunawan",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Second round",
    "p1": "Lin C-y",
    "p2": "Zhu XC",
    "games": [],
@@ -83,9 +111,22 @@
    "round": "First round",
    "p1": "Loh K Y",
    "p2": "Chi Y-j",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     23
+    ],
+    [
+     21,
+     12
+    ],
+    [
+     21,
+     18
+    ]
+   ],
+   "status": "finished",
+   "winner": "Loh K Y"
   },
   {
    "tournament": "Hong Kong Open",
@@ -112,9 +153,22 @@
    "round": "First round",
    "p1": "L Sen",
    "p2": "A Merklé",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     14,
+     21
+    ],
+    [
+     21,
+     16
+    ],
+    [
+     25,
+     23
+    ]
+   ],
+   "status": "finished",
+   "winner": "L Sen"
   },
   {
    "tournament": "Hong Kong Open",
@@ -122,6 +176,39 @@
    "round": "First round",
    "p1": "R Gemke",
    "p2": "Y Okimoto",
+   "games": [
+    [
+     19,
+     21
+    ],
+    [
+     21,
+     19
+    ],
+    [
+     21,
+     18
+    ]
+   ],
+   "status": "finished",
+   "winner": "R Gemke"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Second round",
+   "p1": "Loh K Y",
+   "p2": "K Nishimoto",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Second round",
+   "p1": "L Sen",
+   "p2": "R Gemke",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -170,9 +257,18 @@
    "round": "First round",
    "p1": "Ng K L",
    "p2": "J Teh",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     21,
+     15
+    ]
+   ],
+   "status": "finished",
+   "winner": "Ng K L"
   },
   {
    "tournament": "Hong Kong Open",
@@ -180,9 +276,22 @@
    "round": "First round",
    "p1": "Z Ubaidillah",
    "p2": "Chou T-c",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     7,
+     21
+    ],
+    [
+     21,
+     19
+    ]
+   ],
+   "status": "finished",
+   "winner": "Z Ubaidillah"
   },
   {
    "tournament": "Hong Kong Open",
@@ -197,12 +306,31 @@
   {
    "tournament": "Hong Kong Open",
    "category": "MS",
-   "round": "First round",
-   "p1": "M Johannesen",
-   "p2": "Yoo T-b",
+   "round": "Second round",
+   "p1": "Ng K L",
+   "p2": "Z Ubaidillah",
    "games": [],
    "status": "scheduled",
    "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "First round",
+   "p1": "M Johannesen",
+   "p2": "Yoo T-b",
+   "games": [
+    [
+     18,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Yoo T-b"
   },
   {
    "tournament": "Hong Kong Open",
@@ -210,9 +338,22 @@
    "round": "First round",
    "p1": "S Kidambi",
    "p2": "K Watanabe",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     16,
+     21
+    ],
+    [
+     21,
+     9
+    ]
+   ],
+   "status": "finished",
+   "winner": "S Kidambi"
   },
   {
    "tournament": "Hong Kong Open",
@@ -220,6 +361,44 @@
    "round": "First round",
    "p1": "Hu ZA",
    "p2": "Lee C Y",
+   "games": [
+    [
+     16,
+     21
+    ],
+    [
+     18,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Lee C Y"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "First round",
+   "p1": "S Ogawa",
+   "p2": "K Vitidsarn",
+   "games": [
+    [
+     7,
+     21
+    ],
+    [
+     21,
+     23
+    ]
+   ],
+   "status": "finished",
+   "winner": "K Vitidsarn"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Second round",
+   "p1": "Yoo T-b",
+   "p2": "S Kidambi",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -227,8 +406,8 @@
   {
    "tournament": "Hong Kong Open",
    "category": "MS",
-   "round": "First round",
-   "p1": "S Ogawa",
+   "round": "Second round",
+   "p1": "Lee C Y",
    "p2": "K Vitidsarn",
    "games": [],
    "status": "scheduled",
@@ -336,9 +515,18 @@
    "round": "First round",
    "p1": "T Miyazaki",
    "p2": "A Kharb",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     10
+    ],
+    [
+     21,
+     18
+    ]
+   ],
+   "status": "finished",
+   "winner": "T Miyazaki"
   },
   {
    "tournament": "Hong Kong Open",
@@ -409,6 +597,16 @@
    "tournament": "Hong Kong Open",
    "category": "WS",
    "round": "Second round",
+   "p1": "T Miyazaki",
+   "p2": "Chiu P-c",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "Second round",
    "p1": "H Akechi",
    "p2": "A Chaliha",
    "games": [],
@@ -421,9 +619,22 @@
    "round": "First round",
    "p1": "M Li",
    "p2": "Tung C-t",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     19,
+     21
+    ],
+    [
+     21,
+     14
+    ],
+    [
+     21,
+     16
+    ]
+   ],
+   "status": "finished",
+   "winner": "M Li"
   },
   {
    "tournament": "Hong Kong Open",
@@ -454,6 +665,48 @@
    "round": "First round",
    "p1": "I Jaiswal",
    "p2": "Wong L C",
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     17,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Wong L C"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "First round",
+   "p1": "Peng Y-w",
+   "p2": "R Intanon",
+   "games": [
+    [
+     17,
+     21
+    ],
+    [
+     12,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "R Intanon"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "Second round",
+   "p1": "M Li",
+   "p2": "Han Y",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -461,8 +714,8 @@
   {
    "tournament": "Hong Kong Open",
    "category": "WS",
-   "round": "First round",
-   "p1": "Peng Y-w",
+   "round": "Second round",
+   "p1": "Wong L C",
    "p2": "R Intanon",
    "games": [],
    "status": "scheduled",
@@ -474,15 +727,81 @@
    "round": "First round",
    "p1": "Huang C-p",
    "p2": "Lin H-t",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     16,
+     21
+    ],
+    [
+     19,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Lin H-t"
   },
   {
    "tournament": "Hong Kong Open",
    "category": "WS",
    "round": "First round",
    "p1": "L Kjærsfeldt",
+   "p2": "P Chochuwong",
+   "games": [
+    [
+     11,
+     21
+    ],
+    [
+     11,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "P Chochuwong"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "First round",
+   "p1": "R Ramraj",
+   "p2": "M Blichfeldt",
+   "games": [
+    [
+     21,
+     18
+    ],
+    [
+     21,
+     18
+    ]
+   ],
+   "status": "finished",
+   "winner": "R Ramraj"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "First round",
+   "p1": "A Schulz",
+   "p2": "Chen YF",
+   "games": [
+    [
+     12,
+     21
+    ],
+    [
+     14,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Chen YF"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "Second round",
+   "p1": "Lin H-t",
    "p2": "P Chochuwong",
    "games": [],
    "status": "scheduled",
@@ -491,18 +810,8 @@
   {
    "tournament": "Hong Kong Open",
    "category": "WS",
-   "round": "First round",
+   "round": "Second round",
    "p1": "R Ramraj",
-   "p2": "M Blichfeldt",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "tournament": "Hong Kong Open",
-   "category": "WS",
-   "round": "First round",
-   "p1": "A Schulz",
    "p2": "Chen YF",
    "games": [],
    "status": "scheduled",
@@ -537,9 +846,18 @@
    "round": "First round",
    "p1": "D Lundgaard / M Vestergaard",
    "p2": "Choi S-g / Goh V S",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     17
+    ],
+    [
+     21,
+     19
+    ]
+   ],
+   "status": "finished",
+   "winner": "D Lundgaard / M Vestergaard"
   },
   {
    "tournament": "Hong Kong Open",
@@ -547,9 +865,18 @@
    "round": "First round",
    "p1": "Man W C / Tee K W",
    "p2": "P Sukphun / Pak Teeraratsakul",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     10
+    ],
+    [
+     21,
+     14
+    ]
+   ],
+   "status": "finished",
+   "winner": "Man W C / Tee K W"
   },
   {
    "tournament": "Hong Kong Open",
@@ -557,6 +884,35 @@
    "round": "First round",
    "p1": "He Z-w / Huang J-h",
    "p2": "H Amsakarunan",
+   "games": [
+    [
+     22,
+     20
+    ],
+    [
+     21,
+     12
+    ]
+   ],
+   "status": "finished",
+   "winner": "He Z-w / Huang J-h"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Second round",
+   "p1": "F Alfian / M S Fikri",
+   "p2": "D Lundgaard / M Vestergaard",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Second round",
+   "p1": "Man W C / Tee K W",
+   "p2": "He Z-w / Huang J-h",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -590,9 +946,22 @@
    "round": "First round",
    "p1": "N M Azriyn A / Tan W K",
    "p2": "H Kawabe / K Matsukawa",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     17,
+     21
+    ],
+    [
+     21,
+     19
+    ]
+   ],
+   "status": "finished",
+   "winner": "N M Azriyn A / Tan W K"
   },
   {
    "tournament": "Hong Kong Open",
@@ -635,6 +1004,16 @@
    ],
    "status": "finished",
    "winner": "K Kumagai / H Nishi"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Second round",
+   "p1": "S Rankireddy / C Shetty",
+   "p2": "N M Azriyn A / Tan W K",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
   },
   {
    "tournament": "Hong Kong Open",
@@ -694,9 +1073,18 @@
    "round": "First round",
    "p1": "Chiu H-c / Wang C-l",
    "p2": "A Tai / Yap R K",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     17,
+     21
+    ],
+    [
+     13,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "A Tai / Yap R K"
   },
   {
    "tournament": "Hong Kong Open",
@@ -723,6 +1111,16 @@
    "round": "Second round",
    "p1": "He JT / Ren XY",
    "p2": "Chen BY / Liu Y",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Second round",
+   "p1": "A Tai / Yap R K",
+   "p2": "L R Carnando / D Marthin",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -906,6 +1304,29 @@
    "round": "First round",
    "p1": "R Hiramoto / C Shida",
    "p2": "H Mijad / N Tungkasatan",
+   "games": [
+    [
+     17,
+     21
+    ],
+    [
+     21,
+     11
+    ],
+    [
+     18,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "H Mijad / N Tungkasatan"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Second round",
+   "p1": "Y Fukushima / M Matsumoto",
+   "p2": "S Hirota / A Sakuramoto",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -914,8 +1335,8 @@
    "tournament": "Hong Kong Open",
    "category": "WD",
    "round": "Second round",
-   "p1": "Y Fukushima / M Matsumoto",
-   "p2": "S Hirota / A Sakuramoto",
+   "p1": "A C Pratiwi / S F S Ramadhanti",
+   "p2": "H Mijad / N Tungkasatan",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -945,9 +1366,22 @@
    "round": "First round",
    "p1": "Chang C-h / Yang C-t",
    "p2": "Kim H-j / Lee Y-w",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     13
+    ],
+    [
+     15,
+     21
+    ],
+    [
+     21,
+     14
+    ]
+   ],
+   "status": "finished",
+   "winner": "Chang C-h / Yang C-t"
   },
   {
    "tournament": "Hong Kong Open",
@@ -986,6 +1420,16 @@
    ],
    "status": "finished",
    "winner": "S Nakade / M Takahashi"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Second round",
+   "p1": "R Iwanaga / K Nakanishi",
+   "p2": "Chang C-h / Yang C-t",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
   },
   {
    "tournament": "Hong Kong Open",
@@ -1041,9 +1485,18 @@
    "round": "First round",
    "p1": "Low Z Y / N Maisarah",
    "p2": "O Jongsathapornparn / S S Wedler",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     18
+    ],
+    [
+     21,
+     16
+    ]
+   ],
+   "status": "finished",
+   "winner": "Low Z Y / N Maisarah"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1081,12 +1534,31 @@
   {
    "tournament": "Hong Kong Open",
    "category": "WD",
-   "round": "First round",
-   "p1": "T Jolly / G Gopichand",
-   "p2": "Fan K Y / Leung Y Y",
+   "round": "Second round",
+   "p1": "Low Z Y / N Maisarah",
+   "p2": "Hsu Y-h / Lin J-y",
    "games": [],
    "status": "scheduled",
    "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "First round",
+   "p1": "T Jolly / G Gopichand",
+   "p2": "Fan K Y / Leung Y Y",
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     21,
+     9
+    ]
+   ],
+   "status": "finished",
+   "winner": "T Jolly / G Gopichand"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1152,6 +1624,16 @@
    ],
    "status": "finished",
    "winner": "P Tan / Thinaah M"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Second round",
+   "p1": "T Jolly / G Gopichand",
+   "p2": "L Lam / A Lee",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
   },
   {
    "tournament": "Hong Kong Open",
@@ -1407,9 +1889,18 @@
    "round": "First round",
    "p1": "C Hemming / E van Leeuwen",
    "p2": "Chan Y C / Ng T Y",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     15,
+     21
+    ],
+    [
+     19,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Chan Y C / Ng T Y"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1417,6 +1908,25 @@
    "round": "First round",
    "p1": "D Ferdinansyah / F Pasaribu",
    "p2": "D Puavaranukroh / S Paewsampran",
+   "games": [
+    [
+     21,
+     18
+    ],
+    [
+     21,
+     13
+    ]
+   ],
+   "status": "finished",
+   "winner": "D Ferdinansyah / F Pasaribu"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Second round",
+   "p1": "S Jomkoh / J Sudjaipraparat",
+   "p2": "R García / L Rodríguez",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -1425,8 +1935,8 @@
    "tournament": "Hong Kong Open",
    "category": "XD",
    "round": "Second round",
-   "p1": "S Jomkoh / J Sudjaipraparat",
-   "p2": "R García / L Rodríguez",
+   "p1": "Chan Y C / Ng T Y",
+   "p2": "D Ferdinansyah / F Pasaribu",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -1475,9 +1985,22 @@
    "round": "First round",
    "p1": "M Faza / A Pranata",
    "p2": "Hoo P R / Lai P J",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     14,
+     21
+    ],
+    [
+     24,
+     22
+    ],
+    [
+     13,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Hoo P R / Lai P J"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1504,6 +2027,16 @@
    "round": "Second round",
    "p1": "Pak Teeraratsakul / S Taerattanachai",
    "p2": "Gao JX / Wu MY",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Second round",
+   "p1": "Hoo P R / Lai P J",
+   "p2": "Jiang ZB / Wei YX",
    "games": [],
    "status": "scheduled",
    "winner": null
