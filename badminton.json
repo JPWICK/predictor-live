@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-18T23:01:53Z",
+ "generatedAt": "2026-11-19T04:26:01Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -599,9 +599,18 @@
    "round": "Second round",
    "p1": "T Miyazaki",
    "p2": "Chiu P-c",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     17
+    ],
+    [
+     21,
+     15
+    ]
+   ],
+   "status": "finished",
+   "winner": "T Miyazaki"
   },
   {
    "tournament": "Hong Kong Open",
@@ -609,6 +618,25 @@
    "round": "Second round",
    "p1": "H Akechi",
    "p2": "A Chaliha",
+   "games": [
+    [
+     21,
+     17
+    ],
+    [
+     21,
+     12
+    ]
+   ],
+   "status": "finished",
+   "winner": "H Akechi"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "Quarter-finals",
+   "p1": "T Miyazaki",
+   "p2": "H Akechi",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -707,9 +735,14 @@
    "round": "Second round",
    "p1": "M Li",
    "p2": "Han Y",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     14
+    ]
+   ],
+   "status": "finished",
+   "winner": "M Li"
   },
   {
    "tournament": "Hong Kong Open",
@@ -803,9 +836,18 @@
    "round": "Second round",
    "p1": "Lin H-t",
    "p2": "P Chochuwong",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     11,
+     21
+    ],
+    [
+     12,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "P Chochuwong"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1011,9 +1053,18 @@
    "round": "Second round",
    "p1": "S Rankireddy / C Shetty",
    "p2": "N M Azriyn A / Tan W K",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     21,
+     16
+    ]
+   ],
+   "status": "finished",
+   "winner": "S Rankireddy / C Shetty"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1021,6 +1072,25 @@
    "round": "Second round",
    "p1": "Hu KY / Lin XY",
    "p2": "K Kumagai / H Nishi",
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     21,
+     17
+    ]
+   ],
+   "status": "finished",
+   "winner": "Hu KY / Lin XY"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Quarter-finals",
+   "p1": "S Rankireddy / C Shetty",
+   "p2": "Hu KY / Lin XY",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -1111,9 +1181,18 @@
    "round": "Second round",
    "p1": "He JT / Ren XY",
    "p2": "Chen BY / Liu Y",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     15
+    ],
+    [
+     21,
+     11
+    ]
+   ],
+   "status": "finished",
+   "winner": "He JT / Ren XY"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1641,9 +1720,18 @@
    "round": "Second round",
    "p1": "Yeung N T / Yeung P L",
    "p2": "P Tan / Thinaah M",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     9,
+     21
+    ],
+    [
+     10,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "P Tan / Thinaah M"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1827,9 +1915,18 @@
    "round": "Second round",
    "p1": "Guo XW / Chen FH",
    "p2": "Y Watanabe / M Taguchi",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     14
+    ],
+    [
+     21,
+     8
+    ]
+   ],
+   "status": "finished",
+   "winner": "Guo XW / Chen FH"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1837,6 +1934,25 @@
    "round": "Second round",
    "p1": "Goh S H / S J Lai",
    "p2": "P Smith / J Gai",
+   "games": [
+    [
+     22,
+     20
+    ],
+    [
+     21,
+     19
+    ]
+   ],
+   "status": "finished",
+   "winner": "Goh S H / S J Lai"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Quarter-finals",
+   "p1": "Guo XW / Chen FH",
+   "p2": "Goh S H / S J Lai",
    "games": [],
    "status": "scheduled",
    "winner": null
