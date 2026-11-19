@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-19T11:23:10Z",
+ "generatedAt": "2026-11-19T13:46:44Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -109,6 +109,29 @@
    "category": "MS",
    "round": "Second round",
    "p1": "Lin C-y",
+   "p2": "Zhu XC",
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     11,
+     21
+    ],
+    [
+     17,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Zhu XC"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Quarter-finals",
+   "p1": "A Antonsen",
    "p2": "Zhu XC",
    "games": [],
    "status": "scheduled",
@@ -464,15 +487,47 @@
    "round": "Second round",
    "p1": "Yoo T-b",
    "p2": "S Kidambi",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     12
+    ],
+    [
+     18,
+     21
+    ],
+    [
+     14,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "S Kidambi"
   },
   {
    "tournament": "Hong Kong Open",
    "category": "MS",
    "round": "Second round",
    "p1": "Lee C Y",
+   "p2": "K Vitidsarn",
+   "games": [
+    [
+     14,
+     21
+    ],
+    [
+     14,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "K Vitidsarn"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Quarter-finals",
+   "p1": "S Kidambi",
    "p2": "K Vitidsarn",
    "games": [],
    "status": "scheduled",
@@ -560,9 +615,18 @@
    "round": "Second round",
    "p1": "Wang ZY",
    "p2": "N Nidaira",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     13
+    ],
+    [
+     21,
+     15
+    ]
+   ],
+   "status": "finished",
+   "winner": "Wang ZY"
   },
   {
    "tournament": "Hong Kong Open",
@@ -570,6 +634,25 @@
    "round": "Second round",
    "p1": "P K Wardani",
    "p2": "T Saeheng",
+   "games": [
+    [
+     21,
+     15
+    ],
+    [
+     21,
+     9
+    ]
+   ],
+   "status": "finished",
+   "winner": "P K Wardani"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WS",
+   "round": "Quarter-finals",
+   "p1": "Wang ZY",
+   "p2": "P K Wardani",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -1470,6 +1553,29 @@
    "round": "Second round",
    "p1": "Chia W J / Teo E Y",
    "p2": "Liang WK / Wang C",
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     18,
+     21
+    ],
+    [
+     19,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Liang WK / Wang C"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MD",
+   "round": "Quarter-finals",
+   "p1": "Kang M-h / Lee J-m",
+   "p2": "Liang WK / Wang C",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -1568,9 +1674,18 @@
    "round": "Second round",
    "p1": "Y Fukushima / M Matsumoto",
    "p2": "S Hirota / A Sakuramoto",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     14
+    ],
+    [
+     21,
+     15
+    ]
+   ],
+   "status": "finished",
+   "winner": "Y Fukushima / M Matsumoto"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1578,6 +1693,25 @@
    "round": "Second round",
    "p1": "A C Pratiwi / S F S Ramadhanti",
    "p2": "H Mijad / N Tungkasatan",
+   "games": [
+    [
+     21,
+     12
+    ],
+    [
+     21,
+     7
+    ]
+   ],
+   "status": "finished",
+   "winner": "A C Pratiwi / S F S Ramadhanti"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Quarter-finals",
+   "p1": "Y Fukushima / M Matsumoto",
+   "p2": "A C Pratiwi / S F S Ramadhanti",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -2320,15 +2454,51 @@
    "round": "Second round",
    "p1": "S Jomkoh / J Sudjaipraparat",
    "p2": "R García / L Rodríguez",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     15
+    ],
+    [
+     13,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "R García / L Rodríguez"
   },
   {
    "tournament": "Hong Kong Open",
    "category": "XD",
    "round": "Second round",
    "p1": "Chan Y C / Ng T Y",
+   "p2": "D Ferdinansyah / F Pasaribu",
+   "games": [
+    [
+     22,
+     24
+    ],
+    [
+     21,
+     19
+    ],
+    [
+     11,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "D Ferdinansyah / F Pasaribu"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Quarter-finals",
+   "p1": "R García / L Rodríguez",
    "p2": "D Ferdinansyah / F Pasaribu",
    "games": [],
    "status": "scheduled",
