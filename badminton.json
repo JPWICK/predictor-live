@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-20T12:39:45Z",
+ "generatedAt": "2026-11-20T16:31:26Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -11,6 +11,16 @@
    "round": "semi finals",
    "p1": "Anders Antonsen",
    "p2": "Lakshya Sen",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "semi finals",
+   "p1": "Zaki Ubaidillah",
+   "p2": "Kunlavut Vitidsarn",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -433,9 +443,18 @@
    "round": "Quarter-finals",
    "p1": "T J Popov",
    "p2": "Z Ubaidillah",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     8,
+     21
+    ],
+    [
+     9,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Z Ubaidillah"
   },
   {
    "tournament": "Hong Kong Open",
@@ -565,9 +584,18 @@
    "round": "Quarter-finals",
    "p1": "S Kidambi",
    "p2": "K Vitidsarn",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     17,
+     21
+    ],
+    [
+     7,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "K Vitidsarn"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1743,6 +1771,26 @@
   {
    "tournament": "Hong Kong Open",
    "category": "WD",
+   "round": "Semi-finals",
+   "p1": "Amallia Cahaya Pratiwi / Siti Fadia Silva Ramadhanti",
+   "p2": "Sumire Nakade / Miyu Takahashi",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Semi-finals",
+   "p1": "Low Zi Yu / Noraqilah Maisarah",
+   "p2": "Pearly Tan / Thinaah Muralitharan",
+   "games": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
    "round": "First round",
    "p1": "Y Fukushima / M Matsumoto",
    "p2": "Jia YF / Zhang C",
@@ -1872,9 +1920,18 @@
    "round": "Quarter-finals",
    "p1": "Y Fukushima / M Matsumoto",
    "p2": "A C Pratiwi / S F S Ramadhanti",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     16,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "A C Pratiwi / S F S Ramadhanti"
   },
   {
    "tournament": "Hong Kong Open",
@@ -2004,9 +2061,18 @@
    "round": "Quarter-finals",
    "p1": "R Iwanaga / K Nakanishi",
    "p2": "S Nakade / M Takahashi",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     19,
+     21
+    ],
+    [
+     22,
+     24
+    ]
+   ],
+   "status": "finished",
+   "winner": "S Nakade / M Takahashi"
   },
   {
    "tournament": "Hong Kong Open",
@@ -2281,6 +2347,25 @@
    "round": "Quarter-finals",
    "p1": "L Lam / A Lee",
    "p2": "P Tan / Thinaah M",
+   "games": [
+    [
+     18,
+     21
+    ],
+    [
+     11,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "P Tan / Thinaah M"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Semi-finals",
+   "p1": "Feng Yanzhe / Huang Dongping",
+   "p2": "Goh Soon Huat / Shevon Jemie Lai",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -2289,8 +2374,8 @@
    "tournament": "Hong Kong Open",
    "category": "XD",
    "round": "Semi-finals",
-   "p1": "Feng Yanzhe / Huang Dongping",
-   "p2": "Goh Soon Huat / Shevon Jemie Lai",
+   "p1": "Dejan Ferdinansyah / Felisha Pasaribu",
+   "p2": "Jiang Zhenbang / Wei Yaxin",
    "games": [],
    "status": "scheduled",
    "winner": null
@@ -2701,9 +2786,18 @@
    "round": "Quarter-finals",
    "p1": "R García / L Rodríguez",
    "p2": "D Ferdinansyah / F Pasaribu",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     13,
+     21
+    ],
+    [
+     17,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "D Ferdinansyah / F Pasaribu"
   },
   {
    "tournament": "Hong Kong Open",
