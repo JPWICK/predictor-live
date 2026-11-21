@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-21T10:06:01Z",
+ "generatedAt": "2026-11-21T15:36:48Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -11,15 +11,47 @@
    "round": "semi finals",
    "p1": "Anders Antonsen",
    "p2": "Lakshya Sen",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     13
+    ],
+    [
+     21,
+     13
+    ]
+   ],
+   "status": "finished",
+   "winner": "Anders Antonsen"
   },
   {
    "tournament": "Hong Kong Open",
    "category": "MS",
    "round": "semi finals",
    "p1": "Zaki Ubaidillah",
+   "p2": "Kunlavut Vitidsarn",
+   "games": [
+    [
+     21,
+     18
+    ],
+    [
+     15,
+     21
+    ],
+    [
+     16,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Kunlavut Vitidsarn"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "MS",
+   "round": "Final",
+   "p1": "Anders Antonsen",
    "p2": "Kunlavut Vitidsarn",
    "games": [],
    "status": "scheduled",
@@ -1834,15 +1866,43 @@
    "round": "Semi-finals",
    "p1": "Amallia Cahaya Pratiwi / Siti Fadia Silva Ramadhanti",
    "p2": "Sumire Nakade / Miyu Takahashi",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     16,
+     21
+    ],
+    [
+     21,
+     23
+    ]
+   ],
+   "status": "finished",
+   "winner": "Sumire Nakade / Miyu Takahashi"
   },
   {
    "tournament": "Hong Kong Open",
    "category": "WD",
    "round": "Semi-finals",
    "p1": "Low Zi Yu / Noraqilah Maisarah",
+   "p2": "Pearly Tan / Thinaah Muralitharan",
+   "games": [
+    [
+     13,
+     21
+    ],
+    [
+     19,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Pearly Tan / Thinaah Muralitharan"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "WD",
+   "round": "Final",
+   "p1": "Sumire Nakade / Miyu Takahashi",
    "p2": "Pearly Tan / Thinaah Muralitharan",
    "games": [],
    "status": "scheduled",
@@ -2444,6 +2504,25 @@
    "category": "XD",
    "round": "Semi-finals",
    "p1": "Dejan Ferdinansyah / Felisha Pasaribu",
+   "p2": "Jiang Zhenbang / Wei Yaxin",
+   "games": [
+    [
+     13,
+     21
+    ],
+    [
+     13,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Jiang Zhenbang / Wei Yaxin"
+  },
+  {
+   "tournament": "Hong Kong Open",
+   "category": "XD",
+   "round": "Final",
+   "p1": "Feng Yanzhe / Huang Dongping",
    "p2": "Jiang Zhenbang / Wei Yaxin",
    "games": [],
    "status": "scheduled",
