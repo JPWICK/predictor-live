@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-22T02:57:14Z",
+ "generatedAt": "2026-11-22T11:03:02Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
@@ -677,9 +677,18 @@
    "round": "Final",
    "p1": "Wang Zhiyi",
    "p2": "Pornpawee Chochuwong",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     16
+    ],
+    [
+     21,
+     11
+    ]
+   ],
+   "status": "finished",
+   "winner": "Wang Zhiyi"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1277,9 +1286,18 @@
    "round": "Final",
    "p1": "Man Wei Chong / Tee Kai Wun",
    "p2": "Leo Rolly Carnando / Daniel Marthin",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     21,
+     19
+    ],
+    [
+     21,
+     18
+    ]
+   ],
+   "status": "finished",
+   "winner": "Man Wei Chong / Tee Kai Wun"
   },
   {
    "tournament": "Hong Kong Open",
@@ -1904,9 +1922,18 @@
    "round": "Final",
    "p1": "Sumire Nakade / Miyu Takahashi",
    "p2": "Pearly Tan / Thinaah Muralitharan",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     20,
+     22
+    ],
+    [
+     16,
+     21
+    ]
+   ],
+   "status": "finished",
+   "winner": "Pearly Tan / Thinaah Muralitharan"
   },
   {
    "tournament": "Hong Kong Open",
@@ -2524,9 +2551,22 @@
    "round": "Final",
    "p1": "Feng Yanzhe / Huang Dongping",
    "p2": "Jiang Zhenbang / Wei Yaxin",
-   "games": [],
-   "status": "scheduled",
-   "winner": null
+   "games": [
+    [
+     17,
+     21
+    ],
+    [
+     21,
+     9
+    ],
+    [
+     21,
+     15
+    ]
+   ],
+   "status": "finished",
+   "winner": "Feng Yanzhe / Huang Dongping"
   },
   {
    "tournament": "Hong Kong Open",
