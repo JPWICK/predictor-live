@@ -1,13 +1,13 @@
 {
  "kind": "predictor-live-feed",
  "version": 1,
- "generatedAt": "2026-11-26T02:43:05Z",
+ "generatedAt": "2026-11-26T12:06:07Z",
  "source": "TennisExplorer daily matches pages, type=all, singles only",
  "timeNote": "Times are TennisExplorer display times, passed through unchanged.",
  "counts": {
   "2026-11-25": 290,
-  "2026-11-26": 221,
-  "2026-11-27": 37
+  "2026-11-26": 243,
+  "2026-11-27": 71
  },
  "matches": [
   {
@@ -1095,65 +1095,125 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "15:00",
-   "p1": "Tomecková G.",
-   "p2": "Heinzova I.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
    "time": "13:55",
    "p1": "Mrazova V.",
    "p2": "Zrnic V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Mrazova V."
   },
   {
    "date": "2026-11-25",
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "12:40",
+   "time": "13:30",
+   "p1": "Heinzova I.",
+   "p2": "Tomecková G.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Heinzova I."
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "13:00",
    "p1": "Marcinkevica D.",
    "p2": "Kubalova K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Marcinkevica D."
   },
   {
    "date": "2026-11-25",
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "11:30",
-   "p1": "Franchi F.",
-   "p2": "Freigassner V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "11:30",
+   "time": "12:35",
    "p1": "Terziyska J.",
    "p2": "Varsa A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Terziyska J."
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "11:25",
+   "p1": "Franchi F.",
+   "p2": "Freigassner V.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Franchi F."
   },
   {
    "date": "2026-11-25",
@@ -1219,10 +1279,22 @@
    "time": "08:30",
    "p1": "Hrdinkova D.",
    "p2": "Hradecka L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Hrdinkova D."
   },
   {
    "date": "2026-11-25",
@@ -1230,12 +1302,29 @@
    "level": "UTR",
    "sex": "W",
    "time": "08:30",
-   "p1": "Novakova E.",
-   "p2": "Molnar K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Molnar K.",
+   "p2": "Novakova E.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Molnar K."
   },
   {
    "date": "2026-11-25",
@@ -1245,23 +1334,22 @@
    "time": "22:30",
    "p1": "Mcphee K.",
    "p2": "Harvey A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "UTR Pro Tennis Series 9",
-   "level": "UTR",
-   "sex": "W",
-   "time": "22:30",
-   "p1": "Nannapaneni L.",
-   "p2": "Tsai V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Mcphee K."
   },
   {
    "date": "2026-11-25",
@@ -1287,6 +1375,31 @@
    ],
    "status": "finished",
    "winner": "Tran E."
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "W",
+   "time": "22:30",
+   "p1": "Nannapaneni L.",
+   "p2": "Tsai V.",
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Nannapaneni L."
   },
   {
    "date": "2026-11-25",
@@ -1324,12 +1437,24 @@
    "level": "UTR",
    "sex": "W",
    "time": "03:30",
-   "p1": "Swarbrick E.",
-   "p2": "Khan L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Khan L.",
+   "p2": "Swarbrick E.",
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Khan L."
   },
   {
    "date": "2026-11-25",
@@ -1337,12 +1462,24 @@
    "level": "UTR",
    "sex": "W",
    "time": "02:55",
-   "p1": "Nannapaneni L.",
-   "p2": "Dunne K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Dunne K.",
+   "p2": "Nannapaneni L.",
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dunne K."
   },
   {
    "date": "2026-11-25",
@@ -3102,10 +3239,22 @@
    "time": "22:30",
    "p1": "Chlpac A.",
    "p2": "Caffarena J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Chlpac A."
   },
   {
    "date": "2026-11-25",
@@ -3192,13 +3341,25 @@
    "tour": "UTR Pro Match Series",
    "level": "UTR",
    "sex": "W",
-   "time": "17:00",
-   "p1": "Markus C.",
-   "p2": "Sarno M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "18:05",
+   "p1": "Sarno M.",
+   "p2": "Markus C.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Sarno M."
   },
   {
    "date": "2026-11-25",
@@ -3208,23 +3369,27 @@
    "time": "16:05",
    "p1": "Doldan Z.",
    "p2": "Rabin S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "UTR Pro Match Series",
-   "level": "UTR",
-   "sex": "W",
-   "time": "14:00",
-   "p1": "Zornada E.",
-   "p2": "Madrid Rocca M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Doldan Z."
   },
   {
    "date": "2026-11-25",
@@ -3250,6 +3415,36 @@
    ],
    "status": "finished",
    "winner": "Montori Rodriguez M."
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "14:00",
+   "p1": "Madrid Rocca M.",
+   "p2": "Zornada E.",
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Madrid Rocca M."
   },
   {
    "date": "2026-11-25",
@@ -3355,6 +3550,31 @@
    ],
    "status": "finished",
    "winner": "Justo G. (3)"
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "Florianopolis challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "16:30",
+   "p1": "Zanellato N.",
+   "p2": "Storck Franca L.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    3,
+    4
+   ],
+   "status": "finished",
+   "winner": "Zanellato N."
   },
   {
    "date": "2026-11-25",
@@ -4758,19 +4978,6 @@
    ],
    "status": "finished",
    "winner": "Hans K."
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "23:00",
-   "p1": "Lora S.",
-   "p2": "Price Pelaez S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
   },
   {
    "date": "2026-11-25",
@@ -6633,19 +6840,6 @@
    "level": "UTR",
    "sex": "M",
    "time": "14:00",
-   "p1": "De Pellegrin V.",
-   "p2": "Lingua Lavallen A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-25",
-   "tour": "UTR Pro Tennis Series 3",
-   "level": "UTR",
-   "sex": "M",
-   "time": "14:00",
    "p1": "Jara-Lozano N.",
    "p2": "Vietri B.",
    "sets": [
@@ -6669,6 +6863,31 @@
    ],
    "status": "finished",
    "winner": "Jara-Lozano N."
+  },
+  {
+   "date": "2026-11-25",
+   "tour": "UTR Pro Tennis Series 3",
+   "level": "UTR",
+   "sex": "M",
+   "time": "14:00",
+   "p1": "Lingua Lavallen A.",
+   "p2": "De Pellegrin V.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lingua Lavallen A."
   },
   {
    "date": "2026-11-25",
@@ -6916,10 +7135,22 @@
    "time": "08:30",
    "p1": "Mitev A.",
    "p2": "Valkusz M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Mitev A."
   },
   {
    "date": "2026-11-25",
@@ -6977,12 +7208,24 @@
    "level": "UTR",
    "sex": "M",
    "time": "22:30",
-   "p1": "Bagaric D.",
-   "p2": "Jones S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Jones S.",
+   "p2": "Bagaric D.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Jones S."
   },
   {
    "date": "2026-11-25",
@@ -7054,12 +7297,24 @@
    "level": "UTR",
    "sex": "M",
    "time": "03:55",
-   "p1": "Ibraimi Y.",
-   "p2": "Beale J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Beale J.",
+   "p2": "Ibraimi Y.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Beale J."
   },
   {
    "date": "2026-11-25",
@@ -7067,12 +7322,24 @@
    "level": "UTR",
    "sex": "M",
    "time": "02:05",
-   "p1": "Ishikawa H.",
-   "p2": "Brown O.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Brown O.",
+   "p2": "Ishikawa H.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Brown O."
   },
   {
    "date": "2026-11-25",
@@ -7234,7 +7501,7 @@
    "tour": "Buenos Aires WTA",
    "level": "Main tour",
    "sex": "W",
-   "time": "19:00Live streams1xBetUnibet",
+   "time": "19:00Live streams1xBetUnibetbet365",
    "p1": "Maristany Zuleta De Reales G. (6)",
    "p2": "Brancaccio N.",
    "sets": [],
@@ -7247,7 +7514,7 @@
    "tour": "Buenos Aires WTA",
    "level": "Main tour",
    "sex": "W",
-   "time": "19:00Live streams1xBetUnibet",
+   "time": "19:00Live streams1xBetUnibetbet365",
    "p1": "Costoulas S.",
    "p2": "Lepchenko V.",
    "sets": [],
@@ -7260,7 +7527,7 @@
    "tour": "Buenos Aires WTA",
    "level": "Main tour",
    "sex": "W",
-   "time": "20:30Live streams1xBetUnibet",
+   "time": "20:30Live streams1xBetUnibetbet365",
    "p1": "Burillo Escorihuela I.",
    "p2": "Samson L. (2)",
    "sets": [],
@@ -7273,7 +7540,7 @@
    "tour": "Buenos Aires WTA",
    "level": "Main tour",
    "sex": "W",
-   "time": "22:00Live streams1xBetUnibet",
+   "time": "22:00Live streams1xBetUnibetbet365",
    "p1": "Carle M.",
    "p2": "Podoroska N.",
    "sets": [],
@@ -7286,7 +7553,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "14:00Live streams1xBet",
+   "time": "14:00Live streams1xBetbet365",
    "p1": "Rodriguez V.",
    "p2": "Sanchez A. (7)",
    "sets": [],
@@ -7299,7 +7566,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "14:00Live streams1xBet",
+   "time": "14:00Live streams1xBetbet365",
    "p1": "Semenistaja D. (1)",
    "p2": "Konishi Camargo Silva J.",
    "sets": [],
@@ -7312,7 +7579,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "15:30Live streams1xBet",
+   "time": "15:30Live streams1xBetbet365",
    "p1": "Strakhova V.",
    "p2": "Ce G. (8)",
    "sets": [],
@@ -7325,7 +7592,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "15:30Live streams1xBet",
+   "time": "15:30Live streams1xBetbet365",
    "p1": "Perez Alarcon L. (6)",
    "p2": "Gatica B.",
    "sets": [],
@@ -7338,7 +7605,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "17:00Live streams1xBet",
+   "time": "17:00Live streams1xBetbet365",
    "p1": "Egorova D. (4)",
    "p2": "Labrana F.",
    "sets": [],
@@ -7351,7 +7618,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "17:00Live streams1xBet",
+   "time": "17:00Live streams1xBetbet365",
    "p1": "Tran D.",
    "p2": "Pigossi L. (2)",
    "sets": [],
@@ -7364,7 +7631,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "20:00Live streams1xBet",
+   "time": "20:00Live streams1xBetbet365",
    "p1": "Bulgaru M. (5)",
    "p2": "Carbone dos Santos M.",
    "sets": [],
@@ -7377,7 +7644,7 @@
    "tour": "Florianopolis 3 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "22:00Live streams1xBet",
+   "time": "22:00Live streams1xBetbet365",
    "p1": "Roura Llaverias R.",
    "p2": "Alves C. (3)",
    "sets": [],
@@ -7390,72 +7657,87 @@
    "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
-   "p1": "Khomutsianskaya D.",
-   "p2": "Friedsam A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Trnava 8 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
+   "time": "10:10",
    "p1": "Lamens S. (5)",
    "p2": "Kovackova A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lamens S. (5)"
   },
   {
    "date": "2026-11-26",
    "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
+   "time": "10:10",
+   "p1": "Friedsam A.",
+   "p2": "Khomutsianskaya D.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    3,
+    null
+   ],
+   "status": "finished",
+   "winner": "Friedsam A."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Trnava 8 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "10:20",
    "p1": "Falei A. (6)",
    "p2": "Kovackova J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Falei A. (6)"
   },
   {
    "date": "2026-11-26",
    "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "11:30Live streams1xBetbet365",
-   "p1": "Laboutkova A.",
-   "p2": "Ponchet J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Trnava 8 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "11:30Live streams1xBetbet365",
-   "p1": "Ngounoue C.",
-   "p2": "Palicova B. (3)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Trnava 8 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "11:30Live streams1xBetbet365",
+   "time": "12:10Live streams1xBetbet365",
    "p1": "Vladson L.",
    "p2": "Malygina E.",
    "sets": [],
@@ -7468,9 +7750,9 @@
    "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "13:00Live streams1xBetbet365",
-   "p1": "Zavatska K.",
-   "p2": "Minnen G. (8)",
+   "time": "12:15Live streams1xBetbet365",
+   "p1": "Ngounoue C.",
+   "p2": "Palicova B. (3)",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -7481,7 +7763,20 @@
    "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "13:00Live streams1xBetbet365",
+   "time": "12:40Live streams1xBetbet365",
+   "p1": "Laboutkova A.",
+   "p2": "Ponchet J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Trnava 8 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "13:10Live streams1xBetbet365",
    "p1": "Yaneva E. (1)",
    "p2": "Zeltina B.",
    "sets": [],
@@ -7491,12 +7786,12 @@
   },
   {
    "date": "2026-11-26",
-   "tour": "Ortisei ITF",
+   "tour": "Trnava 8 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "11:00Live streams1xBetbet365",
-   "p1": "Kuzmova K. (7)",
-   "p2": "Perelygina E.",
+   "time": "13:25Live streams1xBetbet365",
+   "p1": "Zavatska K.",
+   "p2": "Minnen G. (8)",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -7507,7 +7802,32 @@
    "tour": "Ortisei ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "12:30Live streams1xBetbet365",
+   "time": "11:10",
+   "p1": "Perelygina E.",
+   "p2": "Kuzmova K. (7)",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Perelygina E."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Ortisei ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "13:05Live streams1xBetbet365",
    "p1": "De Stefano S. (1)",
    "p2": "Brockmann T. (6)",
    "sets": [],
@@ -7520,7 +7840,7 @@
    "tour": "Ortisei ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "14:00Live streams1xBetbet365",
+   "time": "14:05Live streams1xBetbet365",
    "p1": "Vlasselaer C.",
    "p2": "Stojsavljevic M.",
    "sets": [],
@@ -7546,98 +7866,137 @@
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:30Live streams1xBetbet365",
-   "p1": "Zhenikhova S.",
-   "p2": "Popa G.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:40",
+   "p1": "Panagiotidou L.",
+   "p2": "Shapatava S.",
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Panagiotidou L."
   },
   {
    "date": "2026-11-26",
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:30Live streams1xBetbet365",
+   "time": "08:40",
    "p1": "Allen V.",
    "p2": "Shaikh H. (6)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Allen V."
   },
   {
    "date": "2026-11-26",
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:30Live streams1xBetbet365",
-   "p1": "Shapatava S.",
-   "p2": "Panagiotidou L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Heraklion 12 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "08:30Live streams1xBetbet365",
+   "time": "08:40",
    "p1": "Dorofeeva-Rybas F.",
    "p2": "Struplova J. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dorofeeva-Rybas F."
   },
   {
    "date": "2026-11-26",
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
-   "p1": "Cvetkovic A.",
-   "p2": "Stankovic A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:50",
+   "p1": "Popa G.",
+   "p2": "Zhenikhova S.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Popa G."
   },
   {
    "date": "2026-11-26",
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
+   "time": "10:05",
    "p1": "Matoula M. (1)",
    "p2": "Barbulescu B.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Matoula M. (1)"
   },
   {
    "date": "2026-11-26",
    "tour": "Heraklion 12 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
-   "p1": "Cortez Llorca L. (5)",
-   "p2": "Glushkova D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Heraklion 12 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "10:00Live streams1xBetbet365",
+   "time": "10:25Live streams1xBetbet365",
    "p1": "Stoyanov A.",
    "p2": "Pedone G. (3)",
    "sets": [],
@@ -7647,16 +8006,53 @@
   },
   {
    "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
+   "tour": "Heraklion 12 ITF",
+   "level": "ITF",
    "sex": "W",
-   "time": "08:30",
-   "p1": "Mrazova V.",
-   "p2": "Varsa A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "10:30",
+   "p1": "Cortez Llorca L. (5)",
+   "p2": "Glushkova D.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    6
+   ],
+   "status": "finished",
+   "winner": "Cortez Llorca L. (5)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Heraklion 12 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "11:25",
+   "p1": "Cvetkovic A.",
+   "p2": "Stankovic A.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Cvetkovic A."
   },
   {
    "date": "2026-11-26",
@@ -7664,8 +8060,8 @@
    "level": "UTR",
    "sex": "W",
    "time": "08:30",
-   "p1": "Marcinkevica D.",
-   "p2": "Heinzova I.",
+   "p1": "Mrazova V.",
+   "p2": "Varsa A.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -7689,13 +8085,25 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "09:00",
-   "p1": "Font J.",
-   "p2": "Cabassers Morros M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:30",
+   "p1": "Marcinkevica D.",
+   "p2": "Heinzova I.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Marcinkevica D."
   },
   {
    "date": "2026-11-26",
@@ -7705,17 +8113,59 @@
    "time": "09:00",
    "p1": "Lopez Alcaraz E.",
    "p2": "Avdeeva V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lopez Alcaraz E."
   },
   {
    "date": "2026-11-26",
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "09:40",
+   "time": "09:00",
+   "p1": "Cabassers Morros M.",
+   "p2": "Font J.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Cabassers Morros M."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "10:05",
    "p1": "Novakova E.",
    "p2": "Hradecka L.",
    "sets": [],
@@ -7728,20 +8178,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "09:40",
-   "p1": "Molnar K.",
-   "p2": "Skapets A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "10:15",
+   "time": "10:45",
    "p1": "Kruijer N.",
    "p2": "Martellenghi E.",
    "sets": [],
@@ -7754,20 +8191,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "10:15",
-   "p1": "Gaillard D.",
-   "p2": "Cabassers Morros A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "11:00",
+   "time": "11:15",
    "p1": "Hejtmanek A.",
    "p2": "Vargova V.",
    "sets": [],
@@ -7780,9 +8204,9 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "11:00",
-   "p1": "Matouskova B.",
-   "p2": "Freigassner V.",
+   "time": "11:40",
+   "p1": "Molnar K.",
+   "p2": "Skapets A.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -7793,7 +8217,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "11:25",
+   "time": "11:50",
    "p1": "Adrover Gallego I.",
    "p2": "Sevald N.",
    "sets": [],
@@ -7806,7 +8230,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "11:25",
+   "time": "11:50",
    "p1": "Aranda Arcas L.",
    "p2": "Cabrera Burns M.",
    "sets": [],
@@ -7819,7 +8243,33 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "12:10",
+   "time": "12:00",
+   "p1": "Gaillard D.",
+   "p2": "Cabassers Morros A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "12:50",
+   "p1": "Matouskova B.",
+   "p2": "Freigassner V.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "13:00",
    "p1": "Zrnic V.",
    "p2": "Nweke D.",
    "sets": [],
@@ -7845,7 +8295,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "13:00",
+   "time": "13:40",
    "p1": "Borodulina V.",
    "p2": "Wedenski S.",
    "sets": [],
@@ -7858,7 +8308,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "14:10",
+   "time": "14:20",
    "p1": "Cabassers Morros A.",
    "p2": "Olariu A.",
    "sets": [],
@@ -7881,12 +8331,12 @@
   },
   {
    "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 9",
+   "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "W",
-   "time": "00:10",
-   "p1": "Carbis J.",
-   "p2": "Zylberman A.",
+   "time": "15:30",
+   "p1": "Garcia Alonso C.",
+   "p2": "Ordonez Anduiza P.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -7897,13 +8347,50 @@
    "tour": "UTR Pro Tennis Series 9",
    "level": "UTR",
    "sex": "W",
-   "time": "00:10",
+   "time": "00:15",
    "p1": "Quigley O.",
    "p2": "Kim E.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Quigley O."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "W",
+   "time": "00:20",
+   "p1": "Zylberman A.",
+   "p2": "Carbis J.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Zylberman A."
   },
   {
    "date": "2026-11-26",
@@ -7911,12 +8398,24 @@
    "level": "UTR",
    "sex": "W",
    "time": "00:30",
-   "p1": "Theodorakopoulos Z.",
-   "p2": "Dunne K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Dunne K.",
+   "p2": "Theodorakopoulos Z.",
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dunne K."
   },
   {
    "date": "2026-11-26",
@@ -7926,10 +8425,22 @@
    "time": "01:35",
    "p1": "Swarbrick E.",
    "p2": "Khan A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Swarbrick E."
   },
   {
    "date": "2026-11-26",
@@ -7937,77 +8448,164 @@
    "level": "UTR",
    "sex": "W",
    "time": "01:40",
-   "p1": "Collins O.",
-   "p2": "Khan L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Khan L.",
+   "p2": "Collins O.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Khan L."
   },
   {
    "date": "2026-11-26",
    "tour": "Antalya 35 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:00Live streams1xBet",
+   "time": "08:00",
+   "p1": "Noguchi S. (2)",
+   "p2": "Safta A.",
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Noguchi S. (2)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Antalya 35 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "08:00",
+   "p1": "Teixido Garcia M. (6)",
+   "p2": "Solar Donoso L.",
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Teixido Garcia M. (6)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Antalya 35 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "08:00",
    "p1": "Trevisan F. (8)",
    "p2": "Diaz Adrover C.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Trevisan F. (8)"
   },
   {
    "date": "2026-11-26",
    "tour": "Antalya 35 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:00Live streams1xBet",
-   "p1": "Safta A.",
-   "p2": "Noguchi S. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Antalya 35 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "08:00Live streams1xBet",
-   "p1": "Lacinova A. (3)",
-   "p2": "Obradovic A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Antalya 35 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "08:00Live streams1xBet",
+   "time": "08:00",
    "p1": "Amiraghyan A.",
    "p2": "Tsujioka S. (7)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Amiraghyan A."
   },
   {
    "date": "2026-11-26",
    "tour": "Antalya 35 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:00Live streams1xBet",
-   "p1": "Solar Donoso L.",
-   "p2": "Teixido Garcia M. (6)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:00",
+   "p1": "Lacinova A. (3)",
+   "p2": "Obradovic A.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lacinova A. (3)"
   },
   {
    "date": "2026-11-26",
@@ -8027,130 +8625,260 @@
    "tour": "Antalya 35 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:30Live streams1xBet",
-   "p1": "Kovalchuk K.",
-   "p2": "Petkovic A. (4)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:30",
+   "p1": "Petkovic A. (4)",
+   "p2": "Kovalchuk K.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Petkovic A. (4)"
   },
   {
    "date": "2026-11-26",
    "tour": "Antalya 35 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:30Live streams1xBet",
+   "time": "09:30",
    "p1": "Todoni C. (1)",
    "p2": "Kenzhibayeva S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Todoni C. (1)"
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "05:00Live streams1xBet",
-   "p1": "Jamshidi E.",
-   "p2": "Dipakbhai Kanabar J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "05:00",
+   "p1": "Pankratova M. (4)",
+   "p2": "Sanjay Mohanty S.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Pankratova M. (4)"
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "05:00Live streams1xBet",
-   "p1": "Sanjay Mohanty S.",
-   "p2": "Pankratova M. (4)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "05:00",
+   "p1": "Dipakbhai Kanabar J.",
+   "p2": "Jamshidi E.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dipakbhai Kanabar J."
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "05:00Live streams1xBet",
-   "p1": "Bhatia K.",
-   "p2": "Dekkers F.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "05:00",
+   "p1": "Dekkers F.",
+   "p2": "Bhatia K.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dekkers F."
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "06:00",
-   "p1": "Nugroho P. (1)",
-   "p2": "Mikhailova M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Kolkata ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "06:30Live streams1xBet",
-   "p1": "Oigawa S.",
-   "p2": "Rao S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Kolkata ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "06:30Live streams1xBet",
+   "time": "06:30",
    "p1": "Lin F.",
    "p2": "Yashina E. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lin F."
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:30Live streams1xBet",
+   "time": "06:30",
+   "p1": "Nugroho P. (1)",
+   "p2": "Mikhailova M.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Nugroho P. (1)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "06:30",
+   "p1": "Rao S.",
+   "p2": "Oigawa S.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rao S."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "08:30",
    "p1": "Yodpetch K. (3)",
    "p2": "Fernando D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Yodpetch K. (3)"
   },
   {
    "date": "2026-11-26",
    "tour": "Kolkata ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "08:30Live streams1xBet",
-   "p1": "Lakshmi Prabha A.",
-   "p2": "Laron M. (7)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:30",
+   "p1": "Laron M. (7)",
+   "p2": "Lakshmi Prabha A.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    6,
+    null
+   ],
+   "status": "finished",
+   "winner": "Laron M. (7)"
   },
   {
    "date": "2026-11-26",
@@ -8183,13 +8911,25 @@
    "tour": "Lousada ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "11:00Live streams1xBet",
+   "time": "11:00",
    "p1": "Makarova M.",
    "p2": "Fontenel C. (5)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Makarova M."
   },
   {
    "date": "2026-11-26",
@@ -8261,13 +9001,85 @@
    "tour": "Monastir 60 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:30Live streams1xBet",
+   "time": "09:30",
+   "p1": "Marinkovic I. (7)",
+   "p2": "Taranova V.",
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Marinkovic I. (7)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Monastir 60 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "09:30",
+   "p1": "Luciano L.",
+   "p2": "Brune Olsen A. (8)",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Luciano L."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Monastir 60 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "09:30",
    "p1": "Choi S.",
    "p2": "Pascual Montalvo I.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Choi S."
   },
   {
    "date": "2026-11-26",
@@ -8277,36 +9089,27 @@
    "time": "09:30",
    "p1": "Inisan E.",
    "p2": "Manta N.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Monastir 60 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "09:30Live streams1xBet",
-   "p1": "Luciano L.",
-   "p2": "Brune Olsen A. (8)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Monastir 60 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "09:30Live streams1xBet",
-   "p1": "Marinkovic I. (7)",
-   "p2": "Taranova V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Inisan E."
   },
   {
    "date": "2026-11-26",
@@ -8316,19 +9119,6 @@
    "time": "11:00Live streams1xBet",
    "p1": "Dal S. (6)",
    "p2": "Lim A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Monastir 60 ITF",
-   "level": "ITF",
-   "sex": "W",
-   "time": "11:00Live streams1xBet",
-   "p1": "Taraba Wallberg N. (1)",
-   "p2": "Pawlak L.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -8362,55 +9152,133 @@
   },
   {
    "date": "2026-11-26",
+   "tour": "Monastir 60 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "11:00",
+   "p1": "Taraba Wallberg N. (1)",
+   "p2": "Pawlak L.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Taraba Wallberg N. (1)"
+  },
+  {
+   "date": "2026-11-26",
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:00Live streams1xBet",
+   "time": "09:00",
    "p1": "Kubareva A. (1)",
    "p2": "Kikawada R.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Kubareva A. (1)"
   },
   {
    "date": "2026-11-26",
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:00Live streams1xBet",
-   "p1": "Bartone K.",
-   "p2": "Lukosiute A. (4)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:00",
+   "p1": "Ma C. (5)",
+   "p2": "Gorska D.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Ma C. (5)"
   },
   {
    "date": "2026-11-26",
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:00Live streams1xBet",
-   "p1": "Lee E. (3)",
-   "p2": "Dmitruk K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:00",
+   "p1": "Lukosiute A. (4)",
+   "p2": "Bartone K.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lukosiute A. (4)"
   },
   {
    "date": "2026-11-26",
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "09:00Live streams1xBet",
-   "p1": "Gorska D.",
-   "p2": "Ma C. (5)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:00",
+   "p1": "Dmitruk K.",
+   "p2": "Lee E. (3)",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Dmitruk K."
   },
   {
    "date": "2026-11-26",
@@ -8430,26 +9298,50 @@
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:30Live streams1xBet",
-   "p1": "Denisenko J.",
-   "p2": "Samir S. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "10:30",
+   "p1": "Samir S. (2)",
+   "p2": "Denisenko J.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Samir S. (2)"
   },
   {
    "date": "2026-11-26",
    "tour": "Sharm El Sheikh 23 ITF",
    "level": "ITF",
    "sex": "W",
-   "time": "10:30Live streams1xBet",
+   "time": "10:30",
    "p1": "Rutlauka S. (8)",
    "p2": "Avataneo S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rutlauka S. (8)"
   },
   {
    "date": "2026-11-26",
@@ -8459,6 +9351,97 @@
    "time": "11:00Live streams1xBet",
    "p1": "El Sayed A.",
    "p2": "Snigireva A. (7)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "14:00",
+   "p1": "Doldan Z.",
+   "p2": "Sarno M.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "15:10",
+   "p1": "Gobbi Monllau A.",
+   "p2": "Meabe S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "15:10",
+   "p1": "Boyden M.",
+   "p2": "Markus K.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "17:00",
+   "p1": "Zornada E.",
+   "p2": "Kawano Cho G.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "17:00",
+   "p1": "Rabin S.",
+   "p2": "Markus C.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "18:10",
+   "p1": "Chlpac A.",
+   "p2": "Madrid Rocca M.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Match Series",
+   "level": "UTR",
+   "sex": "W",
+   "time": "18:10",
+   "p1": "Duarte A.",
+   "p2": "Doldan H.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -8557,6 +9540,19 @@
   },
   {
    "date": "2026-11-26",
+   "tour": "Florianopolis challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "17:00Live streams1xBetBetVictorBetssonUnibetbet365",
+   "p1": "Zanellato N.",
+   "p2": "Moller E. (2)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
    "tour": "Playford 2 challenger",
    "level": "Challenger",
    "sex": "M",
@@ -8610,176 +9606,337 @@
    "tour": "Playford 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "03:20Live streamsBetVictorbet365",
+   "time": "03:20",
    "p1": "Sweeny D. (1)",
    "p2": "Jones H.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Sweeny D. (1)"
   },
   {
    "date": "2026-11-26",
    "tour": "Playford 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "04:50Live streamsBetVictorbet365",
-   "p1": "Pham D.",
-   "p2": "Bolt A. (4)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "04:40",
+   "p1": "Bolt A. (4)",
+   "p2": "Pham D.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Bolt A. (4)"
   },
   {
    "date": "2026-11-26",
    "tour": "Yokohama challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "03:10Live streams1xBetBetVictorUnibetbet365bwin",
-   "p1": "Isomura K.",
-   "p2": "Matsuoka H. (6)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "03:10",
+   "p1": "Matsuoka H. (6)",
+   "p2": "Isomura K.",
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Matsuoka H. (6)"
   },
   {
    "date": "2026-11-26",
    "tour": "Yokohama challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "03:10Live streams1xBetBetVictorUnibetbet365bwin",
+   "time": "03:10",
    "p1": "Shimizu Y. (9)",
    "p2": "Staeheli L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Shimizu Y. (9)"
   },
   {
    "date": "2026-11-26",
    "tour": "Yokohama challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "04:40Live streams1xBetBetVictorUnibetbet365bwin",
-   "p1": "Honda N.",
-   "p2": "Takahashi Y.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Yokohama challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "04:40Live streams1xBetBetVictorUnibetbet365bwin",
+   "time": "04:30",
    "p1": "Noguchi R. (4)",
    "p2": "Hassan B.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Noguchi R. (4)"
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Yokohama challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:15",
+   "p1": "Honda N.",
+   "p2": "Takahashi Y.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Honda N."
   },
   {
    "date": "2026-11-26",
    "tour": "Ankara challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBetBetVictorbet365",
-   "p1": "Gulin S. (8)",
-   "p2": "Ursu V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:10",
+   "p1": "Ursu V.",
+   "p2": "Gulin S. (8)",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    4,
+    null
+   ],
+   "status": "finished",
+   "winner": "Ursu V."
   },
   {
    "date": "2026-11-26",
    "tour": "Ankara challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBetBetVictorbet365",
-   "p1": "Bobichon M.",
-   "p2": "Rincon D. (2)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:10",
+   "p1": "Rincon D. (2)",
+   "p2": "Bobichon M.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "tb": [
+    5,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rincon D. (2)"
   },
   {
    "date": "2026-11-26",
    "tour": "Ankara challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "10:30Live streams1xBetBetVictorbet365",
+   "time": "10:35",
    "p1": "Guna R.",
    "p2": "Wiskandt M. (7)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Guna R."
   },
   {
    "date": "2026-11-26",
    "tour": "Ankara challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "10:30Live streams1xBetBetVictorbet365",
-   "p1": "Maute J.",
-   "p2": "Kirkin E.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "11:15",
+   "p1": "Kirkin E.",
+   "p2": "Maute J.",
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Kirkin E."
   },
   {
    "date": "2026-11-26",
    "tour": "Monastir 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "11:00Live streamsBetVictorbet365",
+   "time": "11:05",
+   "p1": "Tabacco G.",
+   "p2": "Coulibaly E. (8)",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Tabacco G."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Monastir 2 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "11:05",
    "p1": "Pankin S.",
    "p2": "Bar Biryukov P. (3)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    5
+   ],
+   "status": "finished",
+   "winner": "Pankin S."
   },
   {
    "date": "2026-11-26",
    "tour": "Monastir 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "11:00Live streamsBetVictorbet365",
+   "time": "11:05",
    "p1": "Bondioli F. (7)",
    "p2": "Scaglia M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    4,
+    null
+   ],
+   "status": "finished",
+   "winner": "Bondioli F. (7)"
   },
   {
    "date": "2026-11-26",
    "tour": "Monastir 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "11:00Live streamsBetVictorbet365",
-   "p1": "Coulibaly E. (8)",
-   "p2": "Tabacco G.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Monastir 2 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "12:30Live streamsBetVictorbet365",
+   "time": "12:55Live streamsBetVictorbet365",
    "p1": "Kelm Y.",
    "p2": "Romano F. (2)",
    "sets": [],
@@ -8822,20 +9979,7 @@
    "tour": "San Salvador challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "03:00",
-   "p1": "Andrade Da Silva L. (7)",
-   "p2": "Duran D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "San Salvador challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "18:00Live streams1xBet",
+   "time": "18:00Live streams1xBetBetVictorbet365",
    "p1": "Heredia S.",
    "p2": "Vales A. (5)",
    "sets": [],
@@ -8848,7 +9992,7 @@
    "tour": "San Salvador challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "18:00Live streams1xBet",
+   "time": "18:00Live streams1xBetBetVictor",
    "p1": "Gomez J. (8)",
    "p2": "Alvarez Valdes L.",
    "sets": [],
@@ -8861,7 +10005,7 @@
    "tour": "San Salvador challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "19:30Live streams1xBet",
+   "time": "19:30Live streams1xBetBetVictorbet365",
    "p1": "Nefve A.",
    "p2": "Willwerth B.",
    "sets": [],
@@ -8871,12 +10015,12 @@
   },
   {
    "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
+   "tour": "San Salvador challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBetBetVictorbet365",
-   "p1": "Kravchenko G. (4)",
-   "p2": "Ovcharenko O.",
+   "time": "21:00",
+   "p1": "Andrade Da Silva L. (7)",
+   "p2": "Duran D.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -8887,33 +10031,82 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBetBetVictorbet365",
+   "time": "09:10",
    "p1": "Bailly G.",
    "p2": "Jones M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Bailly G."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBetBetVictorbet365",
-   "p1": "Demin Y.",
-   "p2": "Pietri B.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:10",
+   "p1": "Ovcharenko O.",
+   "p2": "Kravchenko G. (4)",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Ovcharenko O."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "12:00Live streams1xBetBetVictorbet365",
+   "time": "09:10",
+   "p1": "Pietri B.",
+   "p2": "Demin Y.",
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Pietri B."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "12:35Live streams1xBetBetVictorbet365",
    "p1": "Peniston R.",
    "p2": "Xilas I.",
    "sets": [],
@@ -8926,176 +10119,327 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "05:30Live streams1xBetbet365",
+   "time": "05:40",
+   "p1": "Mukund S.",
+   "p2": "Kamath M.",
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Mukund S."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:40",
    "p1": "Singh K.",
    "p2": "Krivoshchekov M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Singh K."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "05:30Live streams1xBet",
-   "p1": "Kamath M.",
-   "p2": "Mukund S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "05:30Live streams1xBetbet365",
+   "time": "05:50",
    "p1": "Sureshkumar M.",
    "p2": "Kshitij A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Sureshkumar M."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "06:30Live streams1xBetbet365",
+   "time": "06:50",
    "p1": "Duhan C.",
    "p2": "Kalyanpur A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    9,
+    7,
+    null
+   ],
+   "status": "finished",
+   "winner": "Duhan C."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "06:30Live streamsbet3651xBet",
-   "p1": "Lakshmanan A.",
-   "p2": "Javia D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "06:30Live streamsbet3651xBet",
+   "time": "07:05",
    "p1": "Rejchtman Vinciguerra W.",
    "p2": "Hans K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rejchtman Vinciguerra W."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "07:00Live streams1xBetbet365",
+   "time": "07:30",
+   "p1": "Javia D.",
+   "p2": "Lakshmanan A.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    2,
+    null,
+    1
+   ],
+   "status": "finished",
+   "winner": "Javia D."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "08:30",
+   "p1": "Lomakin G.",
+   "p2": "Ianin N.",
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    9,
+    5,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lomakin G."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "08:40",
    "p1": "Chauhan H.",
    "p2": "Djosic N.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    3
+   ],
+   "status": "finished",
+   "winner": "Chauhan H."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "07:30Live streamsbet3651xBet",
-   "p1": "Ianin N.",
-   "p2": "Lomakin G.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:30Live streams1xBetbet365",
-   "p1": "Sorger S.",
-   "p2": "Bozemoj B.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:30Live streams1xBetbet365",
+   "time": "09:40",
    "p1": "Michnev P.",
    "p2": "Hignett L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Michnev P."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "11:00Live streams1xBetbet365",
-   "p1": "Homola P.",
-   "p2": "Friberg K.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:40",
+   "p1": "Sorger S.",
+   "p2": "Bozemoj B.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Sorger S."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "11:00Live streams1xBetbet365",
-   "p1": "Gundacker J.",
-   "p2": "Siniakov D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "11:00",
+   "p1": "Siniakov D.",
+   "p2": "Gundacker J.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Siniakov D."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "12:30Live streams1xBetbet365",
-   "p1": "Sesko Z.",
-   "p2": "Beaven J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "11:25",
+   "p1": "Friberg K.",
+   "p2": "Homola P.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Friberg K."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "12:30Live streams1xBetbet365",
+   "time": "12:45Live streams1xBetbet365",
    "p1": "Duda A.",
    "p2": "Gengel M.",
    "sets": [],
@@ -9108,7 +10452,33 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "14:00Live streams1xBetbet365",
+   "time": "13:15Live streams1xBetbet365",
+   "p1": "Sesko Z.",
+   "p2": "Beaven J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "13:55Live streams1xBetbet365",
+   "p1": "Paroulek T.",
+   "p2": "Braynin A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "14:05Live streams1xBetbet365",
    "p1": "Pieczonka F.",
    "p2": "Piening C.",
    "sets": [],
@@ -9121,9 +10491,9 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "14:00Live streams1xBetbet365",
-   "p1": "Paroulek T.",
-   "p2": "Braynin A.",
+   "time": "--:--",
+   "p1": "Giotis R.",
+   "p2": "Radjenovic V.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -9137,36 +10507,52 @@
    "time": "--:--",
    "p1": "Giotis R.",
    "p2": "Nikolic M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Giotis R."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "00:00",
-   "p1": "De la Pena B.",
-   "p2": "Braga V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "08:00Live streams1xBet",
+   "time": "08:00",
    "p1": "Figl M.",
    "p2": "Weis A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "tb": [
+    null,
+    3,
+    null
+   ],
+   "status": "finished",
+   "winner": "Figl M."
   },
   {
    "date": "2026-11-26",
@@ -9176,23 +10562,77 @@
    "time": "08:00",
    "p1": "Radjenovic V.",
    "p2": "Tiurnev E.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Radjenovic V."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "08:30Live streams1xBet",
-   "p1": "De La Cierva Sanchez P.",
-   "p2": "Curras Abasolo T.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:00",
+   "p1": "Giotis R.",
+   "p2": "Perfetti N.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Giotis R."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "08:30",
+   "p1": "Rolland D.",
+   "p2": "Cizek J.",
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rolland D."
   },
   {
    "date": "2026-11-26",
@@ -9202,62 +10642,77 @@
    "time": "08:30",
    "p1": "Basile P.",
    "p2": "Kontopoulos T.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Basile P."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "08:30Live streams1xBet",
-   "p1": "Garcia Hernandez S.",
-   "p2": "Delicata L.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:30",
+   "p1": "Delicata L.",
+   "p2": "Garcia Hernandez S.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Delicata L."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "08:30Live streams1xBet",
-   "p1": "Cizek J.",
-   "p2": "Rolland D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:00Live streams1xBet",
-   "p1": "Lechno-Wasiutynski F.",
-   "p2": "Bakshi A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:00Live streams1xBet",
-   "p1": "Ibrahim K.",
-   "p2": "Paardekooper S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "08:30",
+   "p1": "Curras Abasolo T.",
+   "p2": "De La Cierva Sanchez P.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Curras Abasolo T."
   },
   {
    "date": "2026-11-26",
@@ -9265,64 +10720,109 @@
    "level": "Challenger",
    "sex": "M",
    "time": "09:00",
-   "p1": "Van Der Meerschen M.",
-   "p2": "Wagner A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "p1": "Lechno-Wasiutynski F.",
+   "p2": "Bakshi A.",
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Lechno-Wasiutynski F."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:00Live streams1xBet",
-   "p1": "Doig C.",
-   "p2": "Purtseladze S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:00Live streams1xBet",
+   "time": "09:00",
    "p1": "Makk P.",
    "p2": "Stanke C.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     5,
+     3
+    ]
+   ],
+   "tb": [
+    null
+   ],
+   "status": "finished",
+   "winner": "Makk P."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:30",
-   "p1": "Vaisman T.",
-   "p2": "Ciric A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:00",
+   "p1": "Paardekooper S.",
+   "p2": "Ibrahim K.",
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    1,
+    null,
+    4
+   ],
+   "status": "finished",
+   "winner": "Paardekooper S."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:30Live streams1xBet",
-   "p1": "Gima S.",
-   "p2": "Breazu V.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:00",
+   "p1": "Purtseladze S.",
+   "p2": "Doig C.",
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    7,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Purtseladze S."
   },
   {
    "date": "2026-11-26",
@@ -9332,19 +10832,6 @@
    "time": "09:30Live streams1xBet",
    "p1": "Cocola S.",
    "p2": "Herrmann T.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "09:30",
-   "p1": "Fondriest M.",
-   "p2": "Van Wyk K.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -9381,39 +10868,160 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:30Live streams1xBet",
-   "p1": "Gusic Wan B.",
-   "p2": "Jeran A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:30",
+   "p1": "Van Der Meerschen M.",
+   "p2": "Wagner A.",
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Van Der Meerschen M."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "09:30Live streams1xBet",
-   "p1": "Dimic M.",
-   "p2": "Nortey I.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:30",
+   "p1": "Gima S.",
+   "p2": "Breazu V.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Gima S."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "10:00Live streams1xBet",
-   "p1": "Habib A.",
-   "p2": "Hallquist Lithen J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "09:30",
+   "p1": "Jeran A.",
+   "p2": "Gusic Wan B.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Jeran A."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:30",
+   "p1": "Van Wyk K.",
+   "p2": "Fondriest M.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Van Wyk K."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:30",
+   "p1": "Vaisman T.",
+   "p2": "Ciric A.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "tb": [
+    null,
+    3
+   ],
+   "status": "finished",
+   "winner": "Vaisman T."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:30",
+   "p1": "Nortey I.",
+   "p2": "Dimic M.",
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    5,
+    null
+   ],
+   "status": "finished",
+   "winner": "Nortey I."
   },
   {
    "date": "2026-11-26",
@@ -9447,32 +11055,6 @@
    "level": "Challenger",
    "sex": "M",
    "time": "10:00Live streams1xBet",
-   "p1": "Rodenas P.",
-   "p2": "Perez Socas R.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "10:00Live streams1xBet",
-   "p1": "Borrelli L.",
-   "p2": "Velcz Z.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "10:00Live streams1xBet",
    "p1": "Hasson J.",
    "p2": "Geladaris O.",
    "sets": [],
@@ -9485,26 +11067,130 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "10:00Live streams1xBet",
-   "p1": "Dominguez Alonso J.",
-   "p2": "Garcia A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "10:00",
+   "p1": "Hallquist Lithen J.",
+   "p2": "Habib A.",
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Hallquist Lithen J."
   },
   {
    "date": "2026-11-26",
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "10:00Live streams1xBet",
+   "time": "10:00",
+   "p1": "Garcia A.",
+   "p2": "Dominguez Alonso J.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Garcia A."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "10:00",
+   "p1": "Borrelli L.",
+   "p2": "Velcz Z.",
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Borrelli L."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "10:00",
+   "p1": "Rodenas P.",
+   "p2": "Perez Socas R.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Rodenas P."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "10:00",
    "p1": "Perez Contri S.",
    "p2": "Arce Fernandez M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Perez Contri S."
   },
   {
    "date": "2026-11-26",
@@ -9514,19 +11200,6 @@
    "time": "10:30Live streams1xBet",
    "p1": "Elsayed A.",
    "p2": "Waldner N.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "Hersonissos 6 challenger",
-   "level": "Challenger",
-   "sex": "M",
-   "time": "10:30Live streams1xBet",
-   "p1": "Ivanov S.",
-   "p2": "Iakubenko V.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -9557,6 +11230,44 @@
    "tb": [],
    "status": "scheduled",
    "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "10:30",
+   "p1": "Behrmann T.",
+   "p2": "Figl M.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "10:30",
+   "p1": "Iakubenko V.",
+   "p2": "Ivanov S.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Iakubenko V."
   },
   {
    "date": "2026-11-26",
@@ -9719,9 +11430,35 @@
    "tour": "Hersonissos 6 challenger",
    "level": "Challenger",
    "sex": "M",
+   "time": "18:30",
+   "p1": "De la Pena B.",
+   "p2": "Braga V.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
    "time": "18:30Live streams1xBet",
    "p1": "Tenti F.",
    "p2": "De Krom M.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "18:30",
+   "p1": "Lora S.",
+   "p2": "Price Pelaez S.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -9771,6 +11508,32 @@
    "tour": "UTR Pro Tennis Series 3",
    "level": "UTR",
    "sex": "M",
+   "time": "14:00",
+   "p1": "Carraro L.",
+   "p2": "Jara-Lozano N.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 3",
+   "level": "UTR",
+   "sex": "M",
+   "time": "14:00",
+   "p1": "Franchini S.",
+   "p2": "Benitez V.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 3",
+   "level": "UTR",
+   "sex": "M",
    "time": "15:10",
    "p1": "Descotte M.",
    "p2": "Aguilar Cardozo F.",
@@ -9810,6 +11573,19 @@
    "tour": "UTR Pro Tennis Series 3",
    "level": "UTR",
    "sex": "M",
+   "time": "17:00",
+   "p1": "Perlov F.",
+   "p2": "Lingua Lavallen A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 3",
+   "level": "UTR",
+   "sex": "M",
    "time": "18:10",
    "p1": "Fernandez Badia A.",
    "p2": "Crosio F.",
@@ -9820,12 +11596,12 @@
   },
   {
    "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 5",
+   "tour": "UTR Pro Tennis Series 3",
    "level": "UTR",
    "sex": "M",
-   "time": "09:00",
-   "p1": "Garcia Garcia A.",
-   "p2": "Schneider V.",
+   "time": "18:10",
+   "p1": "Tischner T.",
+   "p2": "Lopez D.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -9836,13 +11612,75 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
+   "time": "08:30",
+   "p1": "Jutresa H.",
+   "p2": "Zavaczki M.",
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Jutresa H."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "M",
    "time": "09:00",
    "p1": "Naharro D.",
    "p2": "Ayllon Prado A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Naharro D."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "M",
+   "time": "09:00",
+   "p1": "Garcia Garcia A.",
+   "p2": "Schneider V.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Garcia Garcia A."
   },
   {
    "date": "2026-11-26",
@@ -9862,7 +11700,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "09:40",
+   "time": "10:20",
    "p1": "Siftar J.",
    "p2": "Kovacs V.",
    "sets": [],
@@ -9875,20 +11713,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "10:40",
-   "p1": "Gimenez Perez C.",
-   "p2": "Porras J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "M",
-   "time": "10:40",
+   "time": "11:05",
    "p1": "Seres F.",
    "p2": "Corthey L.",
    "sets": [],
@@ -9901,7 +11726,20 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "11:00",
+   "time": "11:15",
+   "p1": "Gimenez Perez C.",
+   "p2": "Porras J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "M",
+   "time": "11:30",
    "p1": "Kis Balazs R.",
    "p2": "Wassermann M.",
    "sets": [],
@@ -9914,7 +11752,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "11:00",
+   "time": "12:30",
    "p1": "Sabanov M.",
    "p2": "Madarasz G.",
    "sets": [],
@@ -9927,7 +11765,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "12:00",
+   "time": "12:50",
    "p1": "Cowcher K.",
    "p2": "Mandou Berranger I.",
    "sets": [],
@@ -9940,7 +11778,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "12:00",
+   "time": "12:50",
    "p1": "Krstic V.",
    "p2": "Leeman D.",
    "sets": [],
@@ -9953,7 +11791,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "12:10",
+   "time": "13:30",
    "p1": "De Ruiter C.",
    "p2": "Valkusz M.",
    "sets": [],
@@ -9966,7 +11804,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "12:10",
+   "time": "13:45",
    "p1": "McDonnell C.",
    "p2": "Lootsma N.",
    "sets": [],
@@ -9979,7 +11817,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "13:30",
+   "time": "14:00",
    "p1": "Ayllon Prado A.",
    "p2": "Morega D.",
    "sets": [],
@@ -9992,7 +11830,7 @@
    "tour": "UTR Pro Tennis Series 5",
    "level": "UTR",
    "sex": "M",
-   "time": "13:30",
+   "time": "14:00",
    "p1": "Naharro D.",
    "p2": "Schneider V.",
    "sets": [],
@@ -10006,8 +11844,34 @@
    "level": "UTR",
    "sex": "M",
    "time": "14:40",
+   "p1": "Gubi T.",
+   "p2": "Chetverikov R.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "M",
+   "time": "15:10",
    "p1": "Cekirge K.",
    "p2": "Dando J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "M",
+   "time": "15:10",
+   "p1": "Avdeev F.",
+   "p2": "Herberg A.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10021,10 +11885,22 @@
    "time": "00:30",
    "p1": "Beale J.",
    "p2": "Patton T.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Beale J."
   },
   {
    "date": "2026-11-26",
@@ -10034,23 +11910,47 @@
    "time": "00:45",
    "p1": "Van Sambeek F.",
    "p2": "Bruce-Smith J.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Van Sambeek F."
   },
   {
    "date": "2026-11-26",
    "tour": "UTR Pro Tennis Series 9",
    "level": "UTR",
    "sex": "M",
-   "time": "01:30",
-   "p1": "Vasiliadis E.",
-   "p2": "Stewart A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "01:55",
+   "p1": "Stewart A.",
+   "p2": "Vasiliadis E.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Stewart A."
   },
   {
    "date": "2026-11-26",
@@ -10060,32 +11960,6 @@
    "time": "02:10",
    "p1": "Nield M.",
    "p2": "Jones S.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 9",
-   "level": "UTR",
-   "sex": "M",
-   "time": "03:00",
-   "p1": "Bagaric D.",
-   "p2": "Gaal C.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-26",
-   "tour": "UTR Pro Tennis Series 9",
-   "level": "UTR",
-   "sex": "M",
-   "time": "03:05",
-   "p1": "Mehrotra A.",
-   "p2": "Staley J.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10109,26 +11983,55 @@
    "tour": "UTR Pro Tennis Series 9",
    "level": "UTR",
    "sex": "M",
-   "time": "04:00",
-   "p1": "Van Sambeek F.",
-   "p2": "Stewart A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "03:40",
+   "p1": "Patton T.",
+   "p2": "Connaughton L.",
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Patton T."
   },
   {
    "date": "2026-11-26",
    "tour": "UTR Pro Tennis Series 9",
    "level": "UTR",
    "sex": "M",
-   "time": "04:05",
-   "p1": "Connaughton L.",
-   "p2": "Patton T.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "time": "03:40",
+   "p1": "Mehrotra A.",
+   "p2": "Staley J.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Mehrotra A."
   },
   {
    "date": "2026-11-26",
@@ -10136,6 +12039,61 @@
    "level": "UTR",
    "sex": "M",
    "time": "04:30",
+   "p1": "Stewart A.",
+   "p2": "Van Sambeek F.",
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "tb": [
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Stewart A."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "05:00",
+   "p1": "Gaal C.",
+   "p2": "Bagaric D.",
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Gaal C."
+  },
+  {
+   "date": "2026-11-26",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "05:55",
    "p1": "Beale J.",
    "p2": "Girdler J.",
    "sets": [],
@@ -10144,169 +12102,43 @@
    "winner": null
   },
   {
-   "date": "2026-11-27",
-   "tour": "Buenos Aires WTA",
+   "date": "2026-11-26",
+   "tour": "Davis Cup",
    "level": "Main tour",
-   "sex": "W",
-   "time": "16:00",
-   "p1": "Herrero Linana A.",
-   "p2": "Riera J. (5)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
+   "sex": "M",
+   "time": "10:15",
+   "p1": "Norrie C.",
+   "p2": "Struff J.",
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "tb": [
+    null,
+    null,
+    null
+   ],
+   "status": "finished",
+   "winner": "Norrie C."
   },
   {
-   "date": "2026-11-27",
-   "tour": "Buenos Aires WTA",
+   "date": "2026-11-26",
+   "tour": "Davis Cup",
    "level": "Main tour",
-   "sex": "W",
-   "time": "16:00",
-   "p1": "Monnet C.",
-   "p2": "Erjavec V. (8)",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "08:30",
-   "p1": "Zrnic V.",
-   "p2": "Varsa A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "08:30",
-   "p1": "Kubalova K.",
-   "p2": "Heinzova I.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "08:30",
-   "p1": "Terziyska J.",
-   "p2": "Nweke D.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Avdeeva V.",
-   "p2": "Liu M.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Kruijer N.",
-   "p2": "Olariu A.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Aranda Arcas L.",
-   "p2": "Sevald N.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Cabrera Burns M.",
-   "p2": "Sevald N.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Adrover Gallego I.",
-   "p2": "Wu H.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Cabrera Burns M.",
-   "p2": "Wu H.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Cabassers Morros A.",
-   "p2": "Martellenghi E.",
-   "sets": [],
-   "tb": [],
-   "status": "scheduled",
-   "winner": null
-  },
-  {
-   "date": "2026-11-27",
-   "tour": "UTR Pro Tennis Series 5",
-   "level": "UTR",
-   "sex": "W",
-   "time": "09:00",
-   "p1": "Anson Sanchez C.",
-   "p2": "Wedenski S.",
+   "sex": "M",
+   "time": "12:10Live streamsbet3651xBetTVSTVR Sport (Svk)beIN Sports 1 (Aus)",
+   "p1": "Fery A.",
+   "p2": "Zverev A.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10317,7 +12149,33 @@
    "tour": "Playford 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "00:30",
+   "time": "01:30Live streamsBetVictorbet365",
+   "p1": "Langmo C.",
+   "p2": "Dellavedova M. (5)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Playford 2 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "01:30Live streamsbet365BetVictor",
+   "p1": "Sweeny D. (1)",
+   "p2": "Overbeck C. (8)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Playford 2 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "03:00Live streamsBetVictorbet365",
    "p1": "Bouzige M.",
    "p2": "Schoolkate T. (2)",
    "sets": [],
@@ -10330,9 +12188,9 @@
    "tour": "Playford 2 challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "00:30",
-   "p1": "Langmo C.",
-   "p2": "Dellavedova M. (5)",
+   "time": "04:30Live streamsbet365BetVictor",
+   "p1": "Jasika O. (6)",
+   "p2": "Bolt A. (4)",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10343,7 +12201,33 @@
    "tour": "Yokohama challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "02:00Live streams1xBet",
+   "time": "03:00Live streams1xBetbet365BetVictor",
+   "p1": "Noguchi R. (4)",
+   "p2": "Matsuoka H. (6)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Yokohama challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "03:00Live streams1xBetbet365BetVictor",
+   "p1": "Shimizu Y. (9)",
+   "p2": "Honda N.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Yokohama challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "04:30Live streams1xBetBetVictorbet365",
    "p1": "Imamura M.",
    "p2": "Jorda Sanchis D. (3)",
    "sets": [],
@@ -10356,9 +12240,48 @@
    "tour": "Yokohama challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "02:00Live streams1xBet",
+   "time": "04:30Live streams1xBetBetVictorbet365",
    "p1": "Uchida K.",
    "p2": "Milic O.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Ankara challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:00",
+   "p1": "Ursu V.",
+   "p2": "Duran T.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Ankara challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:00",
+   "p1": "Donald M. (6)",
+   "p2": "Rincon D. (2)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Ankara challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:00",
+   "p1": "Faurel T. (3)",
+   "p2": "Guna R.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10395,9 +12318,22 @@
    "tour": "San Salvador challenger",
    "level": "Challenger",
    "sex": "M",
-   "time": "00:00Live streams1xBet",
+   "time": "00:00Live streams1xBetBetVictorbet365",
    "p1": "Legout T. (1)",
    "p2": "Poling K.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "San Salvador challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "17:00Live streams1xBet",
+   "p1": "Bicknell B. (3)",
+   "p2": "Queiroz Miguel L. (6)",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10424,6 +12360,123 @@
    "time": "09:00Live streams1xBet",
    "p1": "Ghetu G.",
    "p2": "Martin A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "09:00",
+   "p1": "Bailly G.",
+   "p2": "Pietri B.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:30",
+   "p1": "Sureshkumar M.",
+   "p2": "Mukund S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:30",
+   "p1": "Duhan C.",
+   "p2": "Javia D.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:30",
+   "p1": "Rejchtman Vinciguerra W.",
+   "p2": "Chauhan H.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "05:30",
+   "p1": "Singh K.",
+   "p2": "Lomakin G.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "--:--",
+   "p1": "Rodenas P.",
+   "p2": "Hallquist Lithen J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "--:--",
+   "p1": "Makk P.",
+   "p2": "Paardekooper S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "--:--",
+   "p1": "Lechno-Wasiutynski F.",
+   "p2": "Purtseladze S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Hersonissos 6 challenger",
+   "level": "Challenger",
+   "sex": "M",
+   "time": "23:00",
+   "p1": "Basile P.",
+   "p2": "Curras Abasolo T.",
    "sets": [],
    "tb": [],
    "status": "scheduled",
@@ -10619,6 +12672,396 @@
    "time": "09:00",
    "p1": "Font O.",
    "p2": "Herberg A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "01:00",
+   "p1": "Beale J.",
+   "p2": "Brown O.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "01:00",
+   "p1": "Jones S.",
+   "p2": "Bruce-Smith J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "01:00",
+   "p1": "Staley J.",
+   "p2": "Connaughton L.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "02:30",
+   "p1": "Stewart A.",
+   "p2": "Gaal C.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "02:30",
+   "p1": "Nield M.",
+   "p2": "Vasiliadis E.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "M",
+   "time": "02:30",
+   "p1": "Ishikawa H.",
+   "p2": "Girdler J.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Buenos Aires WTA",
+   "level": "Main tour",
+   "sex": "W",
+   "time": "16:00Live streams1xBet",
+   "p1": "Herrero Linana A.",
+   "p2": "Riera J. (5)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Buenos Aires WTA",
+   "level": "Main tour",
+   "sex": "W",
+   "time": "16:00Live streams1xBet",
+   "p1": "Monnet C.",
+   "p2": "Erjavec V. (8)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Heraklion 12 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Matoula M. (1)",
+   "p2": "Allen V.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Heraklion 12 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Cvetkovic A.",
+   "p2": "Popa G.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "08:30",
+   "p1": "Zrnic V.",
+   "p2": "Varsa A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "08:30",
+   "p1": "Kubalova K.",
+   "p2": "Heinzova I.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "08:30",
+   "p1": "Terziyska J.",
+   "p2": "Nweke D.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Avdeeva V.",
+   "p2": "Liu M.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Kruijer N.",
+   "p2": "Olariu A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Aranda Arcas L.",
+   "p2": "Sevald N.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Cabrera Burns M.",
+   "p2": "Sevald N.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Adrover Gallego I.",
+   "p2": "Wu H.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Cabrera Burns M.",
+   "p2": "Wu H.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Cabassers Morros A.",
+   "p2": "Martellenghi E.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 5",
+   "level": "UTR",
+   "sex": "W",
+   "time": "09:00",
+   "p1": "Anson Sanchez C.",
+   "p2": "Wedenski S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "W",
+   "time": "01:00",
+   "p1": "Dunne K.",
+   "p2": "Mcphee K.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "UTR Pro Tennis Series 9",
+   "level": "UTR",
+   "sex": "W",
+   "time": "02:30",
+   "p1": "Zylberman A.",
+   "p2": "Khan L.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Antalya 35 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Lacinova A. (3)",
+   "p2": "Amiraghyan A.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Antalya 35 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Trevisan F. (8)",
+   "p2": "Noguchi S. (2)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Dipakbhai Kanabar J.",
+   "p2": "Pankratova M. (4)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Nugroho P. (1)",
+   "p2": "Rao S.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Dekkers F.",
+   "p2": "Lin F.",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Kolkata ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Yodpetch K. (3)",
+   "p2": "Laron M. (7)",
+   "sets": [],
+   "tb": [],
+   "status": "scheduled",
+   "winner": null
+  },
+  {
+   "date": "2026-11-27",
+   "tour": "Sharm El Sheikh 23 ITF",
+   "level": "ITF",
+   "sex": "W",
+   "time": "--:--",
+   "p1": "Dmitruk K.",
+   "p2": "Ma C. (5)",
    "sets": [],
    "tb": [],
    "status": "scheduled",
