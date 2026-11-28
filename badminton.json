@@ -1,7 +1,7 @@
 {
  "kind": "predictor-badminton-feed",
  "version": 1,
- "generatedAt": "2026-11-28T04:37:35Z",
+ "generatedAt": "2026-11-28T13:58:54Z",
  "source": "Wikipedia tournament pages (community-updated from official BWF results)",
  "notes": "No start times; names in Wikipedia short form; results may lag the official feed.",
  "matches": [
